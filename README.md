@@ -1,5 +1,4 @@
 ```js
-<Introduction>
 Hello! I'm Ultro, an 15 programmer, editor and student.
 ```
 
