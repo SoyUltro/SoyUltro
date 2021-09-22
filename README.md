@@ -3,7 +3,7 @@ Hello! I'm Ultro, an 15 programmer, editor and student.
 ```
 
 -  Actualmente aprendiendo a editar videos. :)
--  He creado un paquete de <p src="https://www.npmjs.com/package/soyultro">npm</p> de gifs de anime
+-  He creado un paquete de <a href="https://www.npmjs.com/package/soyultro">npm de gifs</a> de anime
 -  Desarrollando paginas web. 
 -  Ayudo y creo Bots de Discord. <br />
 
