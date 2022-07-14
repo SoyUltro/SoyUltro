@@ -18,9 +18,3 @@ Hello! I'm Ultro, an 16 programmer, editor and student.
 <br />
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=soyultro&show_icons=true&theme=radical)
-
-<div align="left">
-  <a href="https://discord.com/users/219676455204814851">
-    <img src="https://lanyard-profile-readme.vercel.app/api/219676455204814851?animated=true" align="left" height="205">
-  </a>
-</div>
