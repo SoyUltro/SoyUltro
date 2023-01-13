@@ -1,5 +1,5 @@
 ```js
-Hello! I'm Ultro, an 17 programmer, editor and student.
+Hello! I'm Ultro, a 17 programmer, editor and student.
 ```
 
 -  Actualmente aprendiendo a editar videos. :slight_smile:
@@ -9,4 +9,4 @@ Hello! I'm Ultro, an 17 programmer, editor and student.
 
 <br />
 
-![Stats](https://github-readme-stats.vercel.app/api?username=soyultro&show_icons=true&theme=radical)
+![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=soyultro&show_icons=true&theme=radical)
