@@ -9,4 +9,4 @@ Hello! I'm Ultro, an 17 programmer, editor and student.
 
 <br />
 
-![Stats](https://github-readme-stats.vercel.app/api?username=soyultro&show_icons=true&theme=radical)
+![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=soyultro&show_icons=true&theme=radical)
